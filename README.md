@@ -25,27 +25,6 @@ Handwritten digit recognition is a classic problem in the field of computer visi
 - **Dataset**: MNIST dataset, consisting of 60,000 training images and 10,000 test images.
 - **Evaluation Metric**: Accuracy of the model on the test set.
 
-## Project Structure
-
-```
-Digit-Recognizer/
-├── data/
-│   ├── raw/
-│   ├── processed/
-├── notebooks/
-│   ├── EDA.ipynb
-│   ├── Model_Training.ipynb
-│   ├── Model_Evaluation.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-├── tests/
-│   ├── test_model.py
-├── README.md
-├── requirements.txt
-├── setup.py
-```
 
 ## Installation
 
